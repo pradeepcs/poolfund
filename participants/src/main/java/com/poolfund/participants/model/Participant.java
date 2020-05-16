@@ -1,6 +1,6 @@
 package com.poolfund.participants.model;
 
-import model.Foundation;
+import com.poolfund.foundation.model.Foundation;
 
 import java.util.Set;
 
